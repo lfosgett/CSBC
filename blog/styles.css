@@ -6,4 +6,14 @@ h2 color: #2c3e50
 font: source sans pro
 */
 
+body {
+    width: 70%;
+    border: 5px solid #bdc3c7;
+}
 
+
+.date {
+    text-transform: uppercase;
+    color: #3498db;
+    font-size: .8em;
+}
